@@ -4,13 +4,16 @@
  *  Author: Rex Qualis Tutorials
  *  Modified: Casey Gilbertson aka ItsCaseyDambit
  *  Date: 01/29/2020
- *  Adapted for Arduino Nano: [Your Name]
+ *  Adapted for Arduino Nano: Lewis Polansky
+ *  Date: 6/16/2024
  *
  *  Hardware Required
  *    1 ea.   Arduino Nano
  *    1 ea.   IR receiver module  ( I used RQ-S003 )
  *    1 ea.   IR remote               ( unidentified )
  *    3 ea.   F-M Jumper Wires
+ *
+ *  Message from Casey Gilbertson aka ItsCaseyDambit
  *
  *  Purpose: This program is used to report which infrared (IR) remote control buttons are being pressed.
  *    The original "project" did not bother establishing any serial connection, so, there was ZERO report
